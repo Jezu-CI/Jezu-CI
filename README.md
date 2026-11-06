@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/jezu-ci-horizontal-dark.svg">
+    <img src="assets/jezu-ci-horizontal.svg" alt="Jezu-CI" width="320">
+  </picture>
+</p>
+
 ### Bonjour 👋
 
 Consultant en cybersécurité IT : réponse à incident et investigation
