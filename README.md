@@ -19,7 +19,7 @@ compte de service, avec des exports de preuves pour NIS2, DORA et l'IEC 62443.
 Construit sur NetBox et Zeek.
 
 - 🌐 Site et documentation : [jezu-ci.github.io/AUSPEX](https://jezu-ci.github.io/AUSPEX/)
-- 📦 Dernière version : [v0.1.0 « Silence Before Dawn »](https://github.com/Jezu-CI/AUSPEX/releases/latest)
+- 📦 Dernière version : [v0.2.0 « Lantern in the Void »](https://github.com/Jezu-CI/AUSPEX/releases/latest), signée (Sigstore)
 - 🧪 Chaque modification est vérifiée sur le vrai produit et sur des captures industrielles réelles
 
 #### 🤖 Transparence
