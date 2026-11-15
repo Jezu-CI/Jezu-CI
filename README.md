@@ -13,7 +13,7 @@ Entra ID), modèle d'administration en tiers et microsegmentation réseau.
 
 #### 🛰️ Projet principal : [Auspex](https://github.com/Jezu-CI/AUSPEX)
 
-CMDB passive IT/OT, open source (Apache 2.0) : inventaire des actifs et
+CMDB passive IT/OT, open source(AGPL v3) : inventaire des actifs et
 contrôle de la segmentation réseau **par écoute passive**, sans agent ni
 compte de service, avec des exports de preuves pour NIS2, DORA et l'IEC 62443.
 Construit sur NetBox et Zeek.
