@@ -29,7 +29,8 @@ c'est-à-dire écrits avec l'assistance d'une IA. J'apporte le besoin,
 l'expertise sécurité et les choix de conception ; la qualité du code est
 garantie par des tests automatisés exécutés à chaque modification.
 
-------------------------------------------- FOR MY NO FRENCH GUYS ----------------------------------------------------------------------------------------------------
+----------------------- FOR MY NO FRENCH GUYS -----------------------
+
 Hi there 👋
 
 IT cybersecurity consultant: incident response and digital forensics (DFIR), expertise in Microsoft environments (Active Directory, Entra ID), tiered administration model and network microsegmentation.
