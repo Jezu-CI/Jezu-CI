@@ -31,18 +31,19 @@ garantie par des tests automatisés exécutés à chaque modification.
 
 ----------------------- FOR MY NO FRENCH GUYS -----------------------
 
-Hi there 👋
+### Hi there 👋
 
 IT cybersecurity consultant: incident response and digital forensics (DFIR), expertise in Microsoft environments (Active Directory, Entra ID), tiered administration model and network microsegmentation.
 
-🛰️ Main project: Auspex
+#### 🛰️ Main project: Auspex
 
 Passive IT/OT CMDB, open source (AGPL v3): asset inventory and network segmentation verification through passive listening, with no agents or service accounts, plus evidence exports for NIS2, DORA and IEC 62443. Built on NetBox and Zeek.
 
-🌐 Website and documentation: jezu-ci.github.io/AUSPEX
-📦 Latest release: v0.2.0 "Lantern in the Void", signed (Sigstore)
-🧪 Every change is tested against the real product and real industrial captures
-🤖 Transparency
+- 🌐 Website and documentation: jezu-ci.github.io/AUSPEX
+- 📦 Latest release: v0.2.0 "Lantern in the Void", signed (Sigstore)
+- 🧪 Every change is tested against the real product and real industrial captures
+
+#### 🤖 Transparency
 
 I'm not a developer by trade: my projects are "vibe coded", meaning they are written with the help of AI. I bring the requirements, the security expertise and the design decisions; code quality is ensured by automated tests that run on every change.
 #### Centres d'intérêt
